@@ -24,6 +24,8 @@ The implementation of package is very simple and can be used with a little knowl
 - StorageDS : It contains different functions to implement different Data Structures and use them through different methods. The different types of storage data structure is :
     - Binary Tree
     - Graph (using Adjacency List)
+    - Linked List
+    - Doubly Linked List
     - Circular Queue (using Array)
     - Queue (using Array)
     - Queue (using Linked List)
@@ -44,3 +46,5 @@ To import Sort -
 To import StorageDS - 
 
     "github.com/suryanshv23/datstr/StorageDS"
+    
+### Note : Anyone who wants to raise issues or contribute to the project are invited.
