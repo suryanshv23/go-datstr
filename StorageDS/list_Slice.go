@@ -69,7 +69,7 @@ func (l *ListArr) Put(i int, e interface{}) error {
 	return errors.New("Index out of range")
 }
 
-// Index gives the index of the item passed as arguement
+// Index gives the index of the item passed as argument
 func (l *ListArr) Index(e interface{}) (int, error) {
 	for x, y := range l.list {
 		if y == e {
