@@ -12,8 +12,6 @@ func QuickSort(Arr []int) []int {
 
 	for i := start; i <= len(Arr)-1; i++ {
 		if Arr[i] < Arr[pivot] {
-			fmt.Println(Arr, Arr[index], Arr[i])
-
 			Arr[index], Arr[i] = Arr[i], Arr[index]
 			index++
 		}
