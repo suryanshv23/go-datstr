@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/github.com/suryanshv23/datstr)](https://goreportcard.com/report/github.com/suryanshv23/datstr)
 # datstr
-The implementation of package is very simple and can be used with a little knowledge of the programming langage and data structure.
+The implementation of package is very simple and can be used with a little knowledge of the programming langage and data structure. It can also be used for educational purposes by the students and golang beginners for learning data structure and algorithm implementation in golang.
 
 #### Install by running following command in your command prompt or bash :
     go get -u "github.com/suryanshv23/datstr" 
